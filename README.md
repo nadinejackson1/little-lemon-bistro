@@ -52,7 +52,7 @@ Follow the prompts to provide a username, email, and password.
 
 7. Run the development server.
 
-    python manage.py runserver
+        python manage.py runserver
 
 8. Open your web browser and visit http://127.0.0.1:8000/ to see the application.
 
